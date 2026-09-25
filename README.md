@@ -1,20 +1,20 @@
-# Interaktive Bewerbung
+# Interaktive Bewerbung als IT-Systemtechnikerin
 
-Eine grafische Anwendung, entwickelt mit Python und Tkinter, zur Vorstellung meiner Bewerbung als IT-Systemtechnikerin.
+Eine eigenentwickelte Desktop-Anwendung mit Python und Tkinter. Da klassische Bewerbungen oft sehr ähnlich sind, habe ich dieses Programm selbst geschrieben, um mich auf einem kreativen und modernen Weg vorzustellen.
 
 ## Projektübersicht
-Das Programm dient als digitales Portfolio. Es ermöglicht eine übersichtliche Navigation durch meine persönlichen Hintergründe, Stärken und meine Motivation für die IT.
+Das Programm funktioniert als digitales Portfolio zum Durchklicken. Damit möchte ich meine Motivation, meine Hintergründe und meine Stärken übersichtlich und ansprechend präsentieren.
 
 ## Technische Details
 * Programmiersprache: Python
-* Benutzeroberfläche: Tkinter
-* Besonderheit: Assets wie Icons sind via Base64 direkt im Code eingebunden
+* Oberflächen-Framework: Tkinter
+* Besonderheit: Icons und Grafiken sind per Base64-Kodierung direkt im Code eingebunden
 
-## Inhalte
+## Inhalte der Anwendung
 * Über mich
 * Meine Stärken
 * Warum IT
 * Was ich mitbringe
 
 ## Ziel
-Dieses Projekt verbindet mein technisches Interesse und die eigenständige Einarbeitung in die Programmierung mit einem konkreten Praxisbeispiel für meine Bewerbung.
+Das Projekt zeigt meine eigenständige Einarbeitung in die Programmierung und verbindet technisches Interesse direkt mit einer praktischen Umsetzung für meinen Berufseinstieg.
